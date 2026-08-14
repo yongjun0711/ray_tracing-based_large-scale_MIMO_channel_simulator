@@ -14,7 +14,16 @@ If you use this dataset or any part of the code, please cite the paper below
 </p>
 
 ```
-
+@ARTICLE{noh:2026,
+  author={Noh, Yong Jun and Choi, Kae Won},
+  journal={IEEE Transactions on Vehicular Technology}, 
+  title={Network-Wide Site-Specific Neural Channel Estimation Technique for {MIMO-OFDM} System Based on Masked Transformer}, 
+  year={2026},
+  month={},
+  volume={},
+  number={},
+  pages={1-16},
+}
 ```
 
 <br/>
