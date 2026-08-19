@@ -19,10 +19,10 @@ If you use this dataset or any part of the code, please cite the paper below
   journal={IEEE Transactions on Vehicular Technology}, 
   title={Network-Wide Site-Specific Neural Channel Estimation Technique for {MIMO-OFDM} System Based on Masked Transformer}, 
   year={2026},
-  month={},
-  volume={},
-  number={},
-  pages={1-16},
+  month=Aug,
+  volume={75},
+  number={8},
+  pages={16851-16866},
 }
 ```
 
